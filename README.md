@@ -1,3 +1,11 @@
+1. Import project into Eclipse (IDE)
+2. Open ReservationSystem Project
+3. Execute Demo Class;
+
+
+
+
+
 Project Description: Plane Reservation System
 Purpose:
 This project aims to create a plane reservation system that efficiently manages passenger information and reservations.
